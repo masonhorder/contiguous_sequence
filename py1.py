@@ -1,5 +1,5 @@
-from datetime import datetime
-startTime = datetime.now()
+# from datetime import datetime
+# startTime = datetime.now()
 
 input = [-2, -3, 4, -1, -2, 1, 5, -3]
 i = 0
@@ -18,4 +18,4 @@ while i < len(input):
 
 print(max)
 
-print(datetime.now() - startTime)
+# print(datetime.now() - startTime)
