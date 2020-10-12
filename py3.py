@@ -11,4 +11,3 @@ def contiguousSequence(input):
     return maxSequenceTotal
     
 
-print(contiguousSequence(input)) 
